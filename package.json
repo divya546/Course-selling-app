@@ -1,0 +1,17 @@
+{
+  "name": "coursesellingapp",
+  "version": "1.0.0",
+  "description": "-initialize a new Node.js project\r -Add Express, jsonwebtoken to it as a dependency\r -Create index.js\r -Addd route skeleton for user login , signup , purchase a course , see course\r -Add middlewares for user and admin auth\r -Define the schema for the user , admin , course ,purchase\r -Complete the routes for user login , sign up ,purchase a course, see course (Extra  points - Use express routing to better structure your routes).\r Create the frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.17.1"
+  }
+}
